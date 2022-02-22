@@ -24,14 +24,14 @@
 ### My Skill Set  
 <details><table><tr><td valign="top" width="33%">
 
-### Design  
+### <div align="center"> Frontend </div>   
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### <div align="center"> Backend </div> 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
@@ -51,7 +51,7 @@
 
 
 
-### Frontend  
+  ### <div align="center"> Frontend </div> 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
@@ -66,7 +66,7 @@
 
 
 ### Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://linkedin.com/in/ineza-jöst-chance-12509a211/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -89,13 +89,10 @@
 
 
 ### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chancee1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=Chancee1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 

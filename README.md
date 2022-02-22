@@ -16,9 +16,6 @@
   
 
 - 🌱 I’m currently learning Spring Boot  
-  
-
-<br/>  
 
 
 ### Skill Set  
@@ -61,9 +58,6 @@
 </div>
 
 </td></tr></table></details>  
-
-<br/>  
-
 
 ### Connect with me  
 <div align="left">

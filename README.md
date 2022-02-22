@@ -7,8 +7,7 @@
   
 
 
-
-###    
+ 
 - 💻 A Coding Enthusiast  
 - 🚪 I’m currently working on [Tuura Application](https://tuura-frontend.netlify.app)  
   
@@ -23,7 +22,7 @@
 
 
 ### My Skill Set  
-<table><tr><td valign="top" width="33%">
+<details><table><tr><td valign="top" width="33%">
 
 ### Design  
 <div align="center">  
@@ -61,7 +60,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table></details>  
 
 <br/>  
 

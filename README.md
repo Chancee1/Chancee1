@@ -21,7 +21,7 @@
 <br/>  
 
 
-### My Skill Set  
+### Skill Set  
 <details><table><tr><td valign="top" width="33%">
 
 ### <div align="center"> Frontend </div>   
@@ -70,7 +70,7 @@
 <a href="https://linkedin.com/in/ineza-jöst-chance-12509a211/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<a href="https://www.facebook.com/ineza.jostchance" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/Chancee1" target="_blank">
@@ -92,7 +92,7 @@
 <div><img src="https://github-readme-stats.vercel.app/api?username=Chancee1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <br />
 

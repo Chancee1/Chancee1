@@ -7,10 +7,9 @@
   
 
 
- <div align="center">
+ <div align="center" width="10%">
   
-#### A coding Enthusiast currently working on tuura Application. My gotos are MERN and MEAN stacks.
-#### Want to further explore cloud and blochain technologies...
+###### A coding Enthusiast currently working on [Tuura](http://tuura-frontend.netlify.app "Tuura") Application. My gotos are MERN and MEAN stacks. Want to further explore cloud and blochain technologies... Apart from coding count me in on debating or gimme a book to read and food :blush: 
 </div>
 <br>
 <div align="center">

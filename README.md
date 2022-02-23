@@ -7,19 +7,17 @@
   
 
 
- 
-- 💻 A Coding Enthusiast  
-- 🚪 I’m currently working on [Tuura Application](https://tuura-frontend.netlify.app)  
+ <div align="center">
   
-
-- 😀 My gotos are MERN annd MEAN stack technologies...  
+#### A coding Enthusiast currently working on tuura Application. My gotos are MERN and MEAN stacks.
+#### Want to further explore cloud and blochain technologies...
+</div>
+<br>
+<div align="center">
   
-
-- 🌱 I’m currently learning Spring Boot  
-
-
 ### Skill Set  
-<details><table><tr><td valign="top" width="33%">
+ </div>
+<details align="center"><table><tr><td valign="top" width="33%">
 
 ### <div align="center"> Design </div>   
 <div align="center">  
@@ -58,9 +56,11 @@
 </div>
 
 </td></tr></table></details>  
-
-### Connect with me  
-<div align="left">
+<div align="center">
+  
+### Connect with me
+</div>  
+<div align="center">
 <a href="https://linkedin.com/in/ineza-jöst-chance-12509a211/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -80,11 +80,13 @@
   
 
 <br/>  
+<!-- <div align="center">
 
-
-### Github Stats  
+### Github Stats 
+  
+  </div>
 <div><img src="https://github-readme-stats.vercel.app/api?username=Chancee1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+-->
 <br/>  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

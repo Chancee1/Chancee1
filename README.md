@@ -21,7 +21,7 @@
 ### Skill Set  
 <details><table><tr><td valign="top" width="33%">
 
-### <div align="center"> Frontend </div>   
+### <div align="center"> Design </div>   
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
 </div>

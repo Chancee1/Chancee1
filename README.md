@@ -9,7 +9,8 @@
 
  <div align="center" width="10%">
   
-###### A coding Enthusiast currently working on [Tuura](http://tuura-frontend.netlify.app "Tuura") Application. My gotos are MERN and MEAN stacks. Want to further explore cloud and blochain technologies... Apart from coding count me in on debating or gimme a book to read and food :blush: 
+###### A coding Enthusiast currently working on [Tuura](http://tuura-frontend.netlify.app "Tuura") Application. My gotos are MERN and MEAN stacks. Want to further explore cloud and blockchain technologies... 
+<!-- Apart from coding count me in on debating or gimme a book to read and food :blush: --> 
 </div>
 <br>
 <div align="center">
@@ -76,9 +77,9 @@
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
+##### Wakatime stats  
+
 <!-- <div align="center">
 
 ### Github Stats 

@@ -91,7 +91,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 31 March 2022 - To: 07 April 2022
+
+JavaScript                   █████████████████████████   99.94 %
+CSS                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->

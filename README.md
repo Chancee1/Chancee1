@@ -3,7 +3,7 @@
 </div>  
   
 
-#### <div align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Ich bin Chance 🙃</div>  
+#### <div align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, Ich bin Chance 🙃</div>  
   
 
 

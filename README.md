@@ -91,11 +91,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 July 2022 - To: 30 July 2022
-
-PHP                          ███████████████▒░░░░░░░░░   60.74 %
-Svelte                       █████████▓░░░░░░░░░░░░░░░   39.26 %
-JavaScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -91,11 +91,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 September 2022 - To: 04 October 2022
-
-Python                   █████████████████▓░░░░░░░   70.73 %
-C                        ███████▒░░░░░░░░░░░░░░░░░   29.05 %
-Text                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

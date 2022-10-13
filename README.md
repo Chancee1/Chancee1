@@ -91,7 +91,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 05 October 2022 - To: 12 October 2022
+
+PHP                          █████████████████▓░░░░░░░   70.14 %
+HTML                         ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
+JavaScript                   █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->

@@ -91,10 +91,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 November 2022 - To: 10 November 2022
+From: 04 November 2022 - To: 11 November 2022
 
-JavaScript                   ███████████████████████▒░   93.27 %
-SCSS                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+JavaScript                   ███████████████████████▓░   95.20 %
+SCSS                         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->

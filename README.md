@@ -91,12 +91,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 November 2022 - To: 24 November 2022
-
-JavaScript                   ████████████████████▓░░░░   82.65 %
-JSON                         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-TypeScript                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-CSS                          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

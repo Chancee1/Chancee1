@@ -91,11 +91,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 08 December 2022
+From: 02 December 2022 - To: 09 December 2022
 
-JavaScript                   ███████████████████▓░░░░░   78.53 %
-JSON                         ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-Other                        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+JavaScript                   ███████████████████▓░░░░░   79.13 %
+JSON                         ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Other                        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->

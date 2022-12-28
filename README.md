@@ -91,7 +91,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 20 December 2022 - To: 27 December 2022
+
+XML                          ███████████████▒░░░░░░░░░   61.82 %
+TypeScript                   █████████▓░░░░░░░░░░░░░░░   38.18 %
 ```
 
 <!--END_SECTION:waka-->

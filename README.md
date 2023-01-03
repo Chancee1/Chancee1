@@ -91,10 +91,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 December 2022 - To: 01 January 2023
+From: 26 December 2022 - To: 02 January 2023
 
-TypeScript                   █████████████████████████   99.63 %
-XML                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TypeScript                   ███████████████████████░░   92.49 %
+XML                          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+HTML                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->

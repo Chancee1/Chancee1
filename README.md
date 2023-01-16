@@ -91,7 +91,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 08 January 2023 - To: 15 January 2023
+
+Docker                       ████████████▒░░░░░░░░░░░░   49.98 %
+JavaScript                   █████████░░░░░░░░░░░░░░░░   36.16 %
+JSON                         ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
 ```
 
 <!--END_SECTION:waka-->

@@ -91,12 +91,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 February 2023 - To: 12 February 2023
+From: 06 February 2023 - To: 13 February 2023
 
-JavaScript                   ████████████████████▓░░░░   82.70 %
-TypeScript                   ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
-JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-CSS                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript                   ███████████████▓░░░░░░░░░   62.76 %
+TypeScript                   █████████▒░░░░░░░░░░░░░░░   37.24 %
 ```
 
 <!--END_SECTION:waka-->

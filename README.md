@@ -91,11 +91,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2023 - To: 23 May 2023
+From: 17 May 2023 - To: 24 May 2023
 
-JavaScript                   █████████████████████▓░░░   87.08 %
-Python                       ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
-Text                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JavaScript                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

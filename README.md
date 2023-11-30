@@ -91,9 +91,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
-JavaScript                   █████████████████████████   100.00 %
+JavaScript                   ███████████████████████▓░   94.40 %
+JSON                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 ```
 
 <!--END_SECTION:waka-->

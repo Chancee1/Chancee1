@@ -9,8 +9,8 @@
 
  <div align="center" width="10%">
   
-###### A coding Enthusiast currently working on [Tuura](http://tuura-frontend.netlify.app "Tuura") Application. Goes to Vanderbilt!. My gotos are MERN and MEAN stacks. Want to further explore cloud and blockchain technologies... 
-#### Apart from coding count me in to meet over a coffee or give me a book to read :blush: 
+##### A coding Enthusiast currently working on [Tuura](http://tuura-frontend.netlify.app "Tuura") Application. Goes to Vanderbilt!. My gotos are MERN and MEAN stacks. Want to further explore cloud and blockchain technologies... 
+###### Apart from coding count me in to meet over a coffee or give me a book to read :blush: 
 </div>
 <br>
 <div align="center">

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://camo.githubusercontent.com/47e358432b88d0ffdc582cfee1c637cfa07414d43dc78333d8b1da085f404dba/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a49675866346867624843654b69587076742f67697068792e676966" align="center" height="123" width="" />
+<img src="https://camo.githubusercontent.com/47e358432b88d0ffdc582cfee1c637cfa07414d43dc78333d8b1da085f404dba/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a49675866346867624843654b69587076742f67697068792e676966" align="center" height="123" width=""/>
 </div>  
   
 
@@ -9,7 +9,7 @@
 
  <div align="center" width="10%">
   
-###### A coding Enthusiast currently working on [Tuura](http://tuura-frontend.netlify.app "Tuura") Application. My gotos are MERN and MEAN stacks. Want to further explore cloud and blockchain technologies... 
+###### A coding Enthusiast currently working on [Tuura](http://tuura-frontend.netlify.app "Tuura") Application. Goes to Vanderbilt!. My gotos are MERN and MEAN stacks. Want to further explore cloud and blockchain technologies... 
  Apart from coding count me in to meet over a coffee or give me a book to read :blush: 
 </div>
 <br>

@@ -91,7 +91,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2024 - To: 12 January 2024
+From: 06 January 2024 - To: 13 January 2024
 
 JavaScript                   ████████████░░░░░░░░░░░░░   47.84 %
 JSON                         ███████▓░░░░░░░░░░░░░░░░░   31.08 %

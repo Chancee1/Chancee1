@@ -91,10 +91,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2024 - To: 18 February 2024
+From: 12 February 2024 - To: 19 February 2024
 
-JavaScript                   ███████████████████████░░   92.14 %
-JSON                         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+JavaScript                   ███████████████████████▓░   94.52 %
+JSON                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 ```
 
 <!--END_SECTION:waka-->

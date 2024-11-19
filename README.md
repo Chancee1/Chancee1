@@ -91,12 +91,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
-HTML                         ███████████░░░░░░░░░░░░░░   43.40 %
-JSON                         ████████▓░░░░░░░░░░░░░░░░   34.08 %
-JavaScript                   █████░░░░░░░░░░░░░░░░░░░░   19.38 %
-CSS                          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

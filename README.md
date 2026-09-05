@@ -1,16 +1,9 @@
 <div align="center">
 
-#### <div align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Chance 🙃</div>  
+#### <div align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Chance </div>  
   
 
 
- <div align="center" width="10%">
-  
-##### A coding Enthusiast currently enrolled at Vanderbilt!. My gotos are MERN and MEAN stacks. Want to further explore cloud and blockchain technologies... 
-###### Apart from coding count me in to meet over a coffee or give me a book to read :blush: 
-</div>
-<br>
-<div align="center">
   
 ### Skill Set  
  </div>

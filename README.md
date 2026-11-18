@@ -58,15 +58,4 @@
   </div>
 <div><img src="https://github-readme-stats.vercel.app/api?username=Chancee1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 -->
-<br/>  
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-<br />
 

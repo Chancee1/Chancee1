@@ -48,7 +48,7 @@
 </td></tr></table></details>  
 <div align="center">
   
-
+<a href="https://github.com/chance-ineza"> My other github </a>
 ##### Wakatime stats  
 
 <!-- <div align="center">
